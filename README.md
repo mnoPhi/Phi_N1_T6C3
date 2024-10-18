@@ -13,5 +13,10 @@
  <li>Tên : Phan Long Phi</li>
  <li>Nguyên quán: Cà Mau</li>
  <li>Sở thích: ✈🍕🎨🎶</li>
- <li></li>
 </ul>
+<h3> Công nghệ sử dụng: </h3>
+<img src="https://github.com/user-attachments/assets/9ea8ff90-9f41-4bc5-9a86-ad6d29685208">
+<img src="https://github.com/user-attachments/assets/60b98344-0c4a-4f18-91e5-0e089a5b2f2c">
+<img src="https://github.com/user-attachments/assets/26a8f45d-2c91-4b0d-ac11-90d9abf8381d">
+
+
