@@ -15,9 +15,14 @@
  <li>Sở thích: ✈🍕🎨🎶</li>
 </ul>
 <h3> Công nghệ sử dụng: </h3>
+<li>Frontend: </li>
 <img src="https://github.com/user-attachments/assets/9ea8ff90-9f41-4bc5-9a86-ad6d29685208">
 <img src="https://github.com/user-attachments/assets/49d8ff38-215f-4322-bbc7-1ad8ab26678f">
 <img src="https://github.com/user-attachments/assets/925a6152-762c-4ad8-8833-ab6aa2249824">
+<li>Backend: </li>
+<img src="https://github.com/user-attachments/assets/f02ab06e-3242-47e8-b748-84bcdf7e2b8f">
+
+
 
 
 
