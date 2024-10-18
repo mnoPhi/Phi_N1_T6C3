@@ -6,4 +6,4 @@
 <li> Nguyễn Huỳnh Phú Quý</li>
 <li> Hoàng Ngân Hà</li>
 <li> Phan Long Phi ( tôi )</li>
- <img src="https://github.com/user-attachments/assets/2bedb0e4-3dad-4b92-b7ba-eb995b74b405" style="display:flex;border-radius:8px" width:500px; height:300px;padding:2px;/>
+ <img src="https://github.com/user-attachments/assets/2bedb0e4-3dad-4b92-b7ba-eb995b74b405" style="display:flex;border-radius:50%" width:500px; height:300px;padding:2px;/>
