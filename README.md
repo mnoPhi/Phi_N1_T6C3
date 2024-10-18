@@ -1,1 +1,2 @@
-<h2>Xin chào mọi người <a href="https://www.flaticon.com/free-icons/hello" title="hello icons">Hello icons created by Freepik - Flaticon</a> <br>Tôi tên là Phi tôi đến từ nhóm 1</h2>
+<h2>Xin chào mọi người <image(https://github.com/user-attachments/assets/0aefd385-a093-4cb0-82ca-ab5b72189d3d)/>
+ <br>Tôi tên là Phi tôi đến từ nhóm 1</h2>
