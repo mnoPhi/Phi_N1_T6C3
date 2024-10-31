@@ -2,6 +2,7 @@
 
 ![Giới thiệu về tôi](https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif?cid=790b7611fvvi94jyaqdrvn0czl2249ya8rg0ozg7jfrjhhr7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
  <br>Tôi đến từ nhóm 1</h1>
+ ## Mô tả
  <h4 color:#212121; style="padding-top:10px">🎯 Mục tiêu của nhóm tôi là: <br> Cung cấp những giao diện dễ nhìn, chuộng người dùng. Hỗ trợ người dùng đặt bàn qua chiếc điện thoại chỉ với vài bước. Đặc biệt ở chúng tôi là cung cấp chi tiết thông tin từng nhà hàng, hỗ trợ xem menu trực tuyến. Hãy đặt ngay và trải nghiệm thử nhé !!! </h4>
 <h3>Thành viên nhóm tôi bao gồm: </h3>
 <li> Lê Văn Anh</li>
@@ -25,6 +26,3 @@ Nếu bạn muốn liên lạc với tôi, hãy gửi email đến [phinc2004bla
 
 Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Hãy kết nối để cùng nhau học hỏi và phát triển!
 
-# 👋 Xin chào, tôi là [Tên của bạn]!
-
-![Giới thiệu về tôi](link-to-your-animation.gif)
