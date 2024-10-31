@@ -1,16 +1,19 @@
-# 👋 Xin chào, tôi là Phi!
-
-![Giới thiệu về tôi](https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif?cid=790b7611fvvi94jyaqdrvn0czl2249ya8rg0ozg7jfrjhhr7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
- <br>Tôi đến từ nhóm 1</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phan+Phi!!;" />
+</h1>
  ## Mô tả
  <h4 color:#212121; style="padding-top:10px">🎯 Mục tiêu của nhóm tôi là: <br> Cung cấp những giao diện dễ nhìn, chuộng người dùng. Hỗ trợ người dùng đặt bàn qua chiếc điện thoại chỉ với vài bước. Đặc biệt ở chúng tôi là cung cấp chi tiết thông tin từng nhà hàng, hỗ trợ xem menu trực tuyến. Hãy đặt ngay và trải nghiệm thử nhé !!! </h4>
 <h3>Thành viên nhóm tôi bao gồm: </h3>
+
 <li> Lê Văn Anh</li>
 <li> Lê Hoàng Minh Khôi</li>
 <li> Nguyễn Huỳnh Phú Quý</li>
 <li> Hoàng Ngân Hà</li>
 <li> Phan Long Phi ( tôi )</li>
- <img src="https://github.com/user-attachments/assets/2bedb0e4-3dad-4b92-b7ba-eb995b74b405" style="display:flex;border-radius:50%;object-fit: cover" width:500px; height:300px;padding:2px;/>
+
+<div align="center">
+ <img src="https://github.com/user-attachments/assets/1ae7ff55-af4b-4b1d-b22e-30ae319f3254"/>
+</div>
 <h3>Thông tin cá nhân ( tôi ):</h3>
 <ul>
  <li>Tên : Phan Long Phi</li>
