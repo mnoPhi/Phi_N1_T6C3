@@ -1,5 +1,7 @@
-<h1 color:#212121>Xin chào mọi người <img src="https://github.com/user-attachments/assets/0aefd385-a093-4cb0-82ca-ab5b72189d3d" style="align-item:center; width:24px; height:24px"/>
- <br>Tôi tên là Phi tôi đến từ nhóm 1</h1>
+# 👋 Xin chào, tôi là Phi!
+
+![Giới thiệu về tôi](https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif?cid=790b7611fvvi94jyaqdrvn0czl2249ya8rg0ozg7jfrjhhr7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+ <br>Tôi đến từ nhóm 1</h1>
  <h4 color:#212121; style="padding-top:10px">🎯 Mục tiêu của nhóm tôi là: <br> Cung cấp những giao diện dễ nhìn, chuộng người dùng. Hỗ trợ người dùng đặt bàn qua chiếc điện thoại chỉ với vài bước. Đặc biệt ở chúng tôi là cung cấp chi tiết thông tin từng nhà hàng, hỗ trợ xem menu trực tuyến. Hãy đặt ngay và trải nghiệm thử nhé !!! </h4>
 <h3>Thành viên nhóm tôi bao gồm: </h3>
 <li> Lê Văn Anh</li>
@@ -14,15 +16,15 @@
  <li>Nguyên quán: Cà Mau</li>
  <li>Sở thích: ✈🍕🎨🎶</li>
 </ul>
-<h3> Công nghệ sử dụng: </h3>
-<li>Frontend: </li>
-<img src="https://github.com/user-attachments/assets/9ea8ff90-9f41-4bc5-9a86-ad6d29685208">
-<img src="https://github.com/user-attachments/assets/49d8ff38-215f-4322-bbc7-1ad8ab26678f">
-<img src="https://github.com/user-attachments/assets/925a6152-762c-4ad8-8833-ab6aa2249824">
-<li>Backend: </li>
-<img src="https://github.com/user-attachments/assets/f02ab06e-3242-47e8-b748-84bcdf7e2b8f">
+<h3 align="left">Ngôn Ngữ Lập Trình Và Các Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <imgsrc="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+## 📧 Liên hệ
+Nếu bạn muốn liên lạc với tôi, hãy gửi email đến [phinc2004blabla@gmail.com](mailto:email@example.com).
+---
 
+Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Hãy kết nối để cùng nhau học hỏi và phát triển!
 
+# 👋 Xin chào, tôi là [Tên của bạn]!
 
-
+![Giới thiệu về tôi](link-to-your-animation.gif)
